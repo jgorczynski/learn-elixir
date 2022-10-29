@@ -9,3 +9,5 @@ This repository is used as an educational codebase for side projects related to 
 * [Elixir School](https://elixirschool.com/en)
 * [Elixir lang](https://elixir-lang.org/)
 * [Elixir forum](https://elixirforum.com/)
+* [Trending Elixir repos](https://github.com/trending/elixir?since=monthly)
+* [Trending Erlang repos](https://github.com/trending/erlang?since=monthly)
